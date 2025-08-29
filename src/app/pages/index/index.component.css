@@ -23,7 +23,6 @@ body {
     color: var(--primary-text);
     line-height: 1.6;
     overflow-x: hidden;
-    scroll-behavior: smooth;
 }
 
 /* Loading Animation */
